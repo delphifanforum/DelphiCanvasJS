@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.794,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\user\Desktop\canvasjsexample\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.676,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\user\Desktop\canvasjsexample\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.431,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.676,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\user\Desktop\canvasjsexample\Unit1.pas</Transaction>
+    <Transaction>2025.07.04 16:14:33.248,C:\Users\user\Desktop\canvasjsexample\CanvasJS_Chart.dproj=C:\Users\user\Desktop\canvasjsexample\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
